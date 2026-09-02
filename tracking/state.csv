@@ -1,8 +1,8 @@
 task_id,subtask_id,status,encoder,encoded_at,validate_status_1
 P0001,,completed,297915765,2026-09-02T16:28:00.244Z,
 P0001,S0001,completed,,,pass|38179254|2026-09-02T16:45:09.216Z
-P0002,,encoding_required,,,
-P0002,S0001,pending,,,
+P0002,,validation_required,38179254,2026-09-02T16:49:44.357Z,
+P0002,S0001,validation_required,,,
 T0001,,encoding_required,,,
 T0001,S0001,pending,,,
 P0003,,validation_required,297915765,2026-09-02T16:30:37.412Z,
