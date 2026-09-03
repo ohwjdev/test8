@@ -9,3 +9,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-02T16:49:44.357Z,P0002,,38179254,submit_encoding,accepted,,campaign.submitScoreSetup,1,"{""task_id"":""P0002"",""staves"":3,""groups"":1,""keysig"":""0"",""meter"":""4/4""}"
 2026-09-03T12:37:23.673Z,P0003,,297915765,submit_comment,accepted,addition,campaign.submitComment,1,"{""task_id"":""P0003"",""subtask_id"":"""",""kind"":""addition"",""parent_id"":""""}"
 2026-09-03T12:38:35.117Z,P0003,,297915765,submit_comment,accepted,reply,campaign.submitComment,1,"{""task_id"":""P0003"",""subtask_id"":"""",""kind"":""reply"",""parent_id"":""2824ed2f""}"
+2026-09-03T12:39:11.478Z,P0003,,297915765,resolve_comment,accepted,addition,campaign.resolveComment,1,"{""comment_id"":""2824ed2f""}"
